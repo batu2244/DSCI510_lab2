@@ -1,2 +1,2 @@
-# Lab-2-Assignment_Lab-1b
+# DSCI510 Lab 2
 Use of functions
